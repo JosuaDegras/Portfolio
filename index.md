@@ -6,7 +6,7 @@
     <title>Mon Portfolio</title>
     <link rel="stylesheet" href="bootstrap.min.css">
 </head>
-
+<body>
 <link rel="stylesheet" href="bootstrap.min.css">
 <h1>Portfolio</h1>
 Mon portfolio pour l'épreuve E5
@@ -16,3 +16,5 @@ Mon portfolio pour l'épreuve E5
 
 <a href="Stage">Mon stage de première année</a>
 
+</body>
+</html>
