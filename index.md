@@ -9,12 +9,12 @@
 <body>
 <link rel="stylesheet" href="bootstrap.min.css">
 <h1>Portfolio</h1>
-Mon portfolio pour l'épreuve E5
+Mon portfolio pour l'épreuve E5 <br>
                             
 <!-- Lien en HTML vers la page Veille.md-->
-<a href="Veille">Ma veille technologique</a>
+<a href="Veille">Ma veille technologique<br></a>
 
-<a href="Stage">Mon stage de première année</a>
+<a href="Stage">Mon stage de première année<br></a>
 
 </body>
 </html>
