@@ -24,7 +24,9 @@ Les applications était dans un fichier partagé édité par le CHU. Pour y alle
 
 J'ai néanmoins remarquer que l'inventaire les ordinateurs remplacé était fait par fichier partager sur un document excel. Ceci fait que lorsqu'une personne se trouve sur le dossier personne d'autre peut y accéder donc cela bloque l'activité de l'entreprise.
 
-Cette mission était pas la seul a prendre en compte un technicien d'intervention répond aussi au demande utilisateur via un téléphone connecter au réseaux du CHU les différents utilisateurs comme les médecins ou les infirmier pouvais appeler pour demander de l'aide sois pour demander de remplacer un ordinateur défectueux 
+Cette mission était pas la seul a prendre en compte un technicien d'intervention répond aussi au demande utilisateur via un téléphone connecter au réseaux du CHU les différents utilisateurs comme les médecins ou les infirmier pouvais appeler pour demander de l'aide sois pour demander de remplacer un ordinateur défectueux ou changer réinitialiser les mots de passe oublié. Les modifications à distance se fesait avec ultra VNC ou le bureau à distance de windows.
+
+
 
 <a href=".">Accueil du site</a>
 
